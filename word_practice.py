@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
+<<<<<<< HEAD
 # @Author: lancer
+=======
+# @Author: levenls, i am
+>>>>>>> 3f70d776518f5315cf233902813cb6582807cbc0
 # @Date:   2016-08-19 16:20:58
 # @Last Modified by:   leven-ls
 # @Last Modified time: 2016-08-20 16:32:11
